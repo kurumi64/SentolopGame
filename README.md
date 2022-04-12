@@ -1,2 +1,2 @@
-# SentolopGame
+# Edukasi Aritmatika Dasar
 Hmmmmm.........
