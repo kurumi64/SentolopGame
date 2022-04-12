@@ -3,7 +3,7 @@
 using std::cout;
 
 int main() {
-  cout << "dor dor dorz";
+  cout << "dor dor dor";
 
   return 0;
 }
