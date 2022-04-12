@@ -1,2 +1,2 @@
 # SentolopGame
-Kiki Adi Pamungkas (___)(___)===D
+Kiki Adi Pamungkas
